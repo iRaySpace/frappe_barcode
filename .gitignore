@@ -1,6 +1,8 @@
 .DS_Store
+.idea
 *.pyc
 *.egg-info
 *.swp
+*.iml
 tags
 frappe_barcode/docs/current
